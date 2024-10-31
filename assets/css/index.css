@@ -42,6 +42,8 @@ nav {
   border-radius: 100px;
 }
 
+/* HEADER */
+
 /* Stile Header */
 header {
   background-color: #ffc017;
@@ -59,3 +61,5 @@ header {
   align-items: center;
   margin-left: 10em;
 }
+
+/* Stile header content */
