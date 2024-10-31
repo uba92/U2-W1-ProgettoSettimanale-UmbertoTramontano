@@ -63,3 +63,6 @@ header {
 }
 
 /* Stile header content */
+#header-text h1 {
+  font-size: 5em;
+}
