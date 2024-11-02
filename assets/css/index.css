@@ -415,3 +415,13 @@ aside {
     justify-content: space-between;
   }
 }
+
+/* ANIMATION FOR M */
+
+g[stroke-linecap='butt'] {
+  transition: opacity 0.5s ease;
+}
+
+.hidden {
+  opacity: 0;
+}
