@@ -1,6 +1,6 @@
 window.addEventListener('scroll', (e) => {
   const header = document.getElementById('header')
-  const scrollPosition = 230
+  const scrollPosition = 400
 
   if (scrollY > scrollPosition) {
     header.classList.add('scrolled')
